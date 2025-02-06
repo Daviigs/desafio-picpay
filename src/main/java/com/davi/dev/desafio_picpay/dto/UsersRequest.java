@@ -2,7 +2,7 @@ package com.davi.dev.desafio_picpay.dto;
 
 import com.davi.dev.desafio_picpay.enums.UserType;
 
-public class UserRequest {
+public class UsersRequest {
 
     private String name;
     private String cpf;
